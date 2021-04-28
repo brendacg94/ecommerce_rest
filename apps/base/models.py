@@ -18,3 +18,6 @@ class BaseModel(models.Model):
         verbose_name_plural = 'Modelos Base'
 
 #ESTO ES UNA PRUEBA
+#OTRO COMENTARIO
+#----------------------
+
