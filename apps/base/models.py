@@ -16,3 +16,5 @@ class BaseModel(models.Model):
         abstract = True
         verbose_name = 'Modelo Base'
         verbose_name_plural = 'Modelos Base'
+
+#ESTO ES UNA PRUEBA
